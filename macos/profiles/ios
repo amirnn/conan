@@ -1,0 +1,22 @@
+[settings]
+# OS
+os=iOS
+os.version=16.0
+os.sdk=iphoneos
+os.sdk_version=16.0
+# architecture
+arch=armv8
+
+# compiler
+compiler=clang
+compiler.cppstd=gnu23
+compiler.libcxx=libc++
+compiler.runtime=static
+compiler.version=16
+compiler.runtime_version=v143
+
+# build type
+build_type=Release
+
+[conf]
+tools.apple:sdk_path="what?"

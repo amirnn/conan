@@ -1,0 +1,17 @@
+[settings]
+# OS
+os=Android
+os.api_level=29
+arch=x86_64
+# Compiler
+compiler=clang
+compiler.version=14
+compiler.libcxx=c++_static
+compiler.cppstd=17
+
+# Buld type
+build_type=Release
+
+[conf]
+# NDK PATH
+tools.android:ndk_path=C:/Users/amirn/AppData/Local/Android/Sdk/ndk/25.2.9519653

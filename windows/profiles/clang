@@ -1,0 +1,10 @@
+[settings]
+arch=x86_64
+build_type=Release
+compiler=clang
+compiler.cppstd=gnu23
+compiler.libcxx=libc++
+compiler.runtime=static
+compiler.version=16
+compiler.runtime_version=v143
+os=Windows
